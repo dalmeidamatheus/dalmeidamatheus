@@ -29,7 +29,6 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dalmeidamatheus&color=6D28D9&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
